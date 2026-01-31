@@ -365,7 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Made with AI, for strategists who think ahead
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Made by TheRealSaitama, for strategists who think ahead
 
 **[Report Bug](https://github.com/yourusername/compete-analyzer/issues)** · **[Request Feature](https://github.com/yourusername/compete-analyzer/issues)** · **[Star this repo](https://github.com/yourusername/compete-analyzer)**
 

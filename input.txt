@@ -1,0 +1,29 @@
+Primary Company: AI Agent Productivity Course
+Industry: Online education
+
+Description:
+A comprehensive course teaching professionals how to build AI agents
+that automate workflows, boost productivity, and handle complex tasks.
+Focuses on practical, hands-on implementation with real-world projects.
+
+Competitors:
+- Generic AI courses (Coursera, Udemy AI fundamentals)
+- No-code automation courses (Zapier Academy, Make tutorials)
+- Traditional productivity coaching (time management gurus)
+- Bootcamp-style AI programs (expensive, time-intensive)
+
+Target Audience:
+Developers, entrepreneurs, and knowledge workers looking to leverage
+AI agents without deep ML expertise.
+
+Key Questions:
+1. What makes us different from generic AI education?
+2. Where are competitors falling short?
+3. What market gaps can we exploit?
+4. How should we position against each competitor type?
+
+Focus Areas:
+- Differentiation and unique value proposition
+- Competitive positioning strategy
+- Market gaps and opportunities
+- Pricing and packaging insights
